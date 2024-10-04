@@ -1,0 +1,22 @@
+/*estilos universales
+aplica a todos los componetes del documento html*/
+*{
+    margin: 10px;
+    font-size: 15px;
+    color: black;
+    background-color: aquamarine;
+}
+div{width: 100%;
+    border: 1px solid ;
+}
+.logo { width: 50%;
+border: 1px solid red;}
+.menu{
+    width: 50%;
+    border: 1px solid green;
+}
+ul, a, li {
+    text-decoration: none;
+    color: blueviolet;
+}
+0
